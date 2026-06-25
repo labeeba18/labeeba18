@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2D6CDF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Labeeba+Aafeen;Data+Science+Student+%7C+ML+Enthusiast;Aspiring+Data+Analyst+%2F+Data+Scientist" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:43E97B&height=200&section=header&text=Labeeba%20Aafeen&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20ML%20Enthusiast%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=16" />
+
+</div>
 
 <h3 align="center">
   🎓 B.Sc. Data Science &nbsp;·&nbsp; Marudhar Kesari Jain College for Women &nbsp;·&nbsp; Vaniyambadi, Tamil Nadu
@@ -161,3 +163,7 @@
 <p align="center">
   <i>✨ "Every dataset has a story. I'm here to tell it." ✨</i>
 </p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:43E97B,100:6C63FF&height=120&section=footer" />
+</div>
